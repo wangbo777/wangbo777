@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deer</h1>
 <h3 align="center">一个垃圾佬的日常</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
